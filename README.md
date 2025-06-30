@@ -8,6 +8,8 @@ Access to the working version of the model (without a MATLAB licence) and user g
 
 KopiMod and the associated user guide represent the excel models used to generate the discounted cash flows for each land use combination in the model 
 
+Appendix D - summarises the proportions of smallholder households eligible for contract coffee participation, and participating in contract coffee. This is under the central transaction cost scenario, supporting the findings for Figure 3 in the manuscript. 
+
 Note - this repository is to facilitate transparency and review of underlying model code for the model. IndoModValueChains.mlapp is the head script, but will not run in this file structure as it does not recognise the utilities, and icons subfolders. To run the model via MATLAB app-designer, copy all utilities and icons into the same root working folder (data can remain in the data sub folder). 
 
 Mlapp files can only be opened with MATLAB appdesigner. Free basic versions of MATLAB are available through their online. .M files in the utilities subfolder can be opened without a MATLAB license and with other software (e.g. Notepad, Visual Studio Code...). 
